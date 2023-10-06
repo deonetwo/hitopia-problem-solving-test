@@ -16,15 +16,15 @@ To run the test cases, go to each directory with `cd` (ex: `cd case1`) from root
 
 #### 1. Weighted Strings
 
-![Weighted Strings](img/case1)
+![Weighted Strings](img/case1.png)
 
 #### 2. Highest Palindrome 
 
-![Highest Palindrome](img/case2)
+![Highest Palindrome](img/case2.png)
 
 #### 3. Balanced Bracket
 
-![Balanced Bracket](img/case3)
+![Balanced Bracket](img/case3.png)
 
 ## Solution No.3 Complexity
 
