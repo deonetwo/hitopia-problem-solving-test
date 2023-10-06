@@ -10,7 +10,7 @@ To run the test cases, go to each directory with `cd` (ex: `cd case1`) from root
 ```bash
   dotnet run
 ```
-
+Or simply copy each code from `case1.cs`, `case2.cs`, and `case3.cs` to the online compiler at https://www.programiz.com/csharp-programming/online-compiler/.
 
 ## Solution
 
